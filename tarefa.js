@@ -71,8 +71,7 @@
 //     texto.innerText = `Você digitou a tecla: ${event.key}`
 // })
 
-//ex6
-// let votar = document.getElementById("votar")
+//let votar = document.getElementById("votar")
 // let imagemG = document.getElementById("generico")
  
 // document.addEventListener("click",function(){
@@ -118,12 +117,12 @@
 //             alert("Reinicie a pagina e escolha outro candidato")    
 //             }
 //         break
-//             case 69:
+//             case 1:
 //                 alert("Você descobriu o candidato secreto ")
-//         let confirmar5 = prompt("Você deseja confirmar seu voto no candidato secreto Cidade: (S/N)")
+//         let confirmar5 = prompt("Você deseja confirmar seu voto no candidato secreto otto anão: (S/N)")
 //         if(confirmar5 == 'S'){
-//             alert("Você votou no candidato secreto Cidade")
-//             imagemG.setAttribute('src', '/Imagens/Cidade.jpg') 
+//             alert("Você votou no candidato secreto  otto anão")
+//             imagemG.setAttribute('src', '/Imagens/otto anao.jpeg') 
 //         }    
 //         else{
 //             alert("Reinicie e escolha outro candidato")    
@@ -133,4 +132,3 @@
 //    }
 
 // })
- 
